@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Readme.md
+Comment=Abrir «/home/shesol/GitHub/Unitat4/Make/Readme.md»
+Icon=text-x-generic
+Name[es_ES]=Readme.md
+Comment[es_ES]=Abrir «/home/shesol/GitHub/Unitat4/Make/Readme.md»
+Icon[es_ES]=text-x-generic
+URL=file:///home/shesol/GitHub/Unitat4/Make/Readme.md
+Type=Link
